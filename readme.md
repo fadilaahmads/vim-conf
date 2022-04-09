@@ -1,4 +1,5 @@
 #VIM CUSTOMIZATION
+Personal VI Imporved configuration
 
 ##Using .vimrc file
 Copy .vimrc file into your home directory
